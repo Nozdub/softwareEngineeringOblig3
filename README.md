@@ -9,5 +9,7 @@
   
   By clicking into Github Actions tab and into each commit I can see that it goes through every step, including collecting the 4 tests 
   that I had written and passes these 100%.
+  
+  Also made chenges to .yml file where I tested running the leap_year.py file instead of the test_leap_year.py file to see if it would run, and it did not.
 
 
