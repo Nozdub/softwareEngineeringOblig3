@@ -2,7 +2,7 @@ from leap_year import is_leap_year
 
 
 def test_check_if_year_is_divisible_by_4():
-    assert bool(is_leap_year(4)) == True
+    assert bool(is_leap_year(3)) == True
     assert bool(is_leap_year(8)) == True
     assert bool(is_leap_year(16)) == True
 
