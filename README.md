@@ -10,6 +10,8 @@
   By clicking into Github Actions tab and into each commit I can see that it goes through every step, including collecting the 4 tests 
   that I had written and passes these 100%.
   
-  Also made chenges to .yml file where I tested running the leap_year.py file instead of the test_leap_year.py file to see if it would run, and it did not.
+  ## **Commit variations tried**
+  - Tried running a test with the wrong .py file (a file that didn't contain any tests) targeted in the .yml file. This resultet in a failed commit and a 100% fail.
+  - I also tried changing one of the tests, and during commit it failed and showed what specific test failed due to what.
 
 
